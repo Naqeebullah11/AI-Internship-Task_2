@@ -1,36 +1,42 @@
-# Task 2: End-to-End ML Pipeline for Customer Churn Prediction
-# 📝 Objective
+# Abasyn University Internship Projects
 
-Build a reusable and production-ready machine learning pipeline to predict customer churn using the Telco Customer Churn dataset.
+# During my 3-month internship at Abasyn University, I had the opportunity to work on hands-on machine learning and AI projects. I secured 1st Position in Machine Learning and 3rd overall during Internship Phase 2 (App Development, Web Development & Digital Management). This internship allowed me to apply theoretical knowledge to real-world problems and strengthen my practical skills in AI, data analysis, and machine learning.
 
-# 🔧 Features
+# Projects
+1. Transformer-Based Chatbot
 
-Data Preprocessing with Pipeline
+Developed a conversational AI chatbot using Hugging Face’s BlenderBot (90M).
 
-Handles missing values
+Implemented sequence-to-sequence text generation for interactive responses.
 
-Encodes categorical variables
+Provided hands-on experience with tokenization, model inference, and NLP pipelines.
 
-Scales numerical features
+2. NLP Spam Detection System
 
-# Model Training
+Built a system to detect spam in SMS and email messages.
 
-Logistic Regression
+Leveraged TF-IDF vectorization and Logistic Regression.
 
-Random Forest
+Developed an interactive Gradio interface for real-time testing of messages.
 
-# Hyperparameter Tuning with GridSearchCV
+3. KNN Classifier on Iris Dataset
 
-# Export & Reuse
+Implemented a K-Nearest Neighbors classifier for multi-class classification.
 
-Save complete pipeline using joblib for production deployment
+Applied 2D and 3D PCA visualizations to demonstrate dimensionality reduction and class separability.
 
-# 🏆 Skills Gained
+Achieved high classification accuracy while gaining experience in data preprocessing and visualization.
 
-Building scikit-learn Pipelines
+# Technologies Used
 
-Applying hyperparameter tuning for optimization
+Python
 
-Creating reusable ML workflows
+Scikit-learn
 
-Ensuring production readiness
+TensorFlow & Hugging Face Transformers
+
+Pandas & NumPy
+
+Matplotlib & Seaborn
+
+Gradio
