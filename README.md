@@ -1,9 +1,9 @@
 # Abasyn University Internship Projects
 
-# During my 3-month internship at Abasyn University, I had the opportunity to work on hands-on machine learning and AI projects. I secured 1st Position in Machine Learning and 3rd overall during Internship Phase 2 (App Development, Web Development & Digital Management). This internship allowed me to apply theoretical knowledge to real-world problems and strengthen my practical skills in AI, data analysis, and machine learning.
+# This internship allowed me to apply theoretical knowledge to real-world problems and strengthen my practical skills in AI, data analysis, and machine learning.
 
 # Projects
-1. Transformer-Based Chatbot
+# 1. Transformer-Based Chatbot
 
 Developed a conversational AI chatbot using Hugging Face’s BlenderBot (90M).
 
@@ -11,7 +11,7 @@ Implemented sequence-to-sequence text generation for interactive responses.
 
 Provided hands-on experience with tokenization, model inference, and NLP pipelines.
 
-2. NLP Spam Detection System
+# 2. NLP Spam Detection System
 
 Built a system to detect spam in SMS and email messages.
 
@@ -19,7 +19,7 @@ Leveraged TF-IDF vectorization and Logistic Regression.
 
 Developed an interactive Gradio interface for real-time testing of messages.
 
-3. KNN Classifier on Iris Dataset
+# 3. KNN Classifier on Iris Dataset
 
 Implemented a K-Nearest Neighbors classifier for multi-class classification.
 
